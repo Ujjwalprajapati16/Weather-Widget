@@ -1,0 +1,14 @@
+.InfoBox {
+    text-align: center;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardContainer p {
+    font-size: 1rem;
+    font-weight: bold;
+}
